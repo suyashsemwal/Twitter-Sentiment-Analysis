@@ -17,3 +17,11 @@ This project demonstrates how machine learning can be used to automatically iden
 - matplotlib
 - seaborn
 - scikit-learn
+
+
+## Machine Learning Algorithm
+- Logistic Regression
+
+
+## Model Performance
+- **Accuracy:** **95.00%**
