@@ -4,6 +4,15 @@
 A machine learning project that classifies tweets as positive or negative using TF-IDF and Logistic Regression.
 The model is trained on the Sentiment140 dataset, containing approximately 1.6 million tweets.
 
+## Live Demo
+
+Try the deployed application: [Twitter Sentiment Analysis](https://twitter-sentiments.streamlit.app)
+
+## Screenshot
+
+![Twitter Sentiment Analysis](screenshot-positive.png)
+![Twitter Sentiment Analysis](screenshot-negative.png)
+
 ## Dataset
 
 - Dataset: Sentiment140
